@@ -1,0 +1,9 @@
+base-devel
+git
+fish
+github-cli
+kitty
+neovim
+ripgrep
+rustup
+fisher
