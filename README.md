@@ -1,6 +1,6 @@
 # Dotfiles
 
-These are my Arch dotfiles. They are designed to be managed with the technique described in [https://www.atlassian.com/git/tutorials/dotfiles](this article).
+These are my Arch dotfiles. They are designed to be managed with the technique described in [this article](https://www.atlassian.com/git/tutorials/dotfiles).
 
 ## Installation
 1. Install basic packages using `pacman -S --needed -< .pkglist`
